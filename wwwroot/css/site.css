@@ -29,6 +29,11 @@ body {
     filter: grayscale(30%);
 }
 
+.logo{
+    width: 70px;
+    height: 70px;
+}
+
 .card {
     overflow:hidden;
     margin: 0 auto;
