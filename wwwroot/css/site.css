@@ -21,9 +21,12 @@ body {
 .jumbo {
     height: 40vw;
     width: 100%;
-    background-image: url("https://images.unsplash.com/photo-1579751626657-72bc17010498?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aXRhbGlhbiUyMHBpenphfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+    background-position: center;
+    background-size: cover;
+    transform: scale(.9);
+    background-image: url("https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX34220723.jpg");
     background-repeat: no-repeat;
-    filter:grayscale(30%);
+    filter: grayscale(30%);
 }
 
 .card {
